@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3015c5f7_002D43ea_002D4511_002Da72d_002D38f59ce2ceff/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RecupererlaMoyenneEvaluationEstCorrecte #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DDC00736-2C62-4837-90F0-7F4C3075A346::net5.0::EvaluationProduitMVC.Test.ProduitTest.RecupererlaMoyenneEvaluationEstCorrecte&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7b62d0c0_002Df6b1_002D4295_002D97c6_002D8cf9de0f9a0e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RecupererlaMoyenneEvaluationEstCorrecte" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::DDC00736-2C62-4837-90F0-7F4C3075A346::net5.0::EvaluationProduitMVC.Test.ProduitTest.RecupererlaMoyenneEvaluationEstCorrecte&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

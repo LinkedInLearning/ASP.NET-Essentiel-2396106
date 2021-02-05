@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>a328bf56-7358-440f-851e-b3c555b81a5c</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.4.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\ZoneProduit\Controllers\" />
+    <Folder Include="Areas\ZoneProduit\Data\" />
+    <Folder Include="Areas\ZoneProduit\Models\" />
+    <Folder Include="Areas\ZoneProduit\Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\images\rating.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

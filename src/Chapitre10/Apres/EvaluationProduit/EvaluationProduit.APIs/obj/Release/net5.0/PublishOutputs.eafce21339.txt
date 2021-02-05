@@ -1,0 +1,13 @@
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\EvaluationProduit.APIs.exe
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\EvaluationProduit.APIs.dll
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\EvaluationProduit.APIs.deps.json
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\EvaluationProduit.APIs.runtimeconfig.json
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\EvaluationProduit.APIs.pdb
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\EvaluationProduit.Domaines.dll
+C:\Users\didou\Documents\LinkedinLearning\CodeSource\Chapitre10\Apres\EvaluationProduit\EvaluationProduit.APIs\obj\Release\net5.0\PubTmp\Out\EvaluationProduit.Domaines.pdb
