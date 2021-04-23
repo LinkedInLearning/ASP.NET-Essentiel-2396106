@@ -1,25 +1,19 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# L'essentiel d'ASP.NET Core pour .NET 5
+Ce dossier Repository est lié au cours L'essentiel d'ASP.NET Core pour .NET 5. Le cours est accessible sur [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![L'essentiel d'ASP.NET Core pour .NET 5][lil-thumbnail-url] 
+Que vous soyez développeur web ou architecte logiciel, découvrez, avec Hamida Rebai, tout ce que les nouveautés des frameworks ASP.NET Core et .NET 5 vous apportent dans la création d'applications web. Après avoir évoqué les concepts et les principes, vous apprendrez à développer les modèles, les contrôleurs et les vues avec ASP.NET Core MVC, et à tirer parti des layouts, de CSS et de JavaScript. Puis vous verrez comment vous connecter à une base de données avec Entity Framework Core, avant de procéder aux tests, à l'hébergement, à la sécurisation puis au déploiement. Enfin, vous aborderez également le développement et le déploiement d'API web.
 
-_See the readme file in the main branch for updated instructions and information._
 ## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+Ce référentiel a une branche MAIN pour le cours.
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+### Instructor
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+**Hamida Rebai Trabelsi**
 
+__Architecte de solutions__
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/hamida-rebai?u=104).
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
-
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-d-asp-dot-net-core-pour-dot-net-5
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2396106/2396106-1615883853233-16x9.jpg
